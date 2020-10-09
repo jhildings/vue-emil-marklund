@@ -6,4 +6,4 @@ A vue.js wrapper for www.emil-marklund.se
 
 * Download
 * Run npm install
-* Run npm serve run
+* Run npm run serve
